@@ -1,4 +1,5 @@
-<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/fe8e84f8-73fd-4f00-9ae2-23f4e2d117e1" />🧠 MindMate – Student Wellness Chatbot
+<h1 align="center">🧠 <b>MindMate</b></h1>
+<h3 align="center">Student Wellness Chatbot</h3>
 
 A supportive AI-powered chatbot designed to promote student mental wellness by providing empathetic, stigma-free conversations. Built with **Streamlit**, **NVIDIA’s Llama-based API**, and **sentiment analysis (TextBlob)**, MindMate acts as a companion to help students navigate stress, anxiety, and academic challenges.
 
