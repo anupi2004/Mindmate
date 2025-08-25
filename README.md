@@ -21,7 +21,7 @@ A supportive AI-powered chatbot designed to promote student mental wellness by p
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/<your-username>/MindMate.git
+git clone https://github.com/anupi2004/MindMate.git
 cd MindMate
 
 2️⃣ Install Dependencies
